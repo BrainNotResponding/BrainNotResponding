@@ -16,7 +16,7 @@
 ## Tech Stack & Tools 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,linux,vscode,kali,html,burpsuite,github" />
+  <img src="https://skillicons.dev/icons?i=java,linux,vscode,kali,html,nodejs,github" />
 </p>
 
 
