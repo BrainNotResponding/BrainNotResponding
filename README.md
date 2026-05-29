@@ -1,11 +1,8 @@
- /\_/\  
-( o.o ) 
- > ^ <
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Typing+SVG&pause=1000&center=true&width=435&lines=Hi+%2C+I%22m++BrainNotFound;%F0%9F%96%A5%EF%B8%8F+Computer+Science;%F0%9F%8E%AF+JavaScript+%26+C%2B%2B" alt="Typing SVG" />
 </p>
 
-<h3 align="center">〖 📚 Learn・🧠 AI・💻 Code 〗</h3>
+<h3 align="center">〔 Code ・AI ・ CTF 〕</h3>
 
 
 ## 🧾 About Me
