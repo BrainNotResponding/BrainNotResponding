@@ -5,7 +5,7 @@
 <h3 align="center">〔 Code ・AI ・ CTF ・ Hack 〕</h3>
 
 ---
-## 🧾 About Me
+## 📝 About Me <img src="https://komarev.com/ghpvc/?username=BrainNotResponding&label=Profile%20Views&color=brightgreen&style=flat-square" valign="middle" />
 
 * **🇹🇭 Based in Maha Sarakham, Thailand**
 *  **Computer Science Student @ Mahasarakham University**
