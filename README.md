@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1314F7&center=true&width=435&lines=HI%2C+I'm+Thanadon%E3%80%94+BrainNotResponding+%E3%80%95;CS+Student+%40+MSU;Analyzing+Malware+%26+Hunting+Flags;Code+by+day%2C+exploit+by+night;status+%3D%3D+%22BrainNotResponding%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Typing+SVG&weight=900&pause=1000&color=29F711&center=true&width=435&lines=Hi%2C+I'm+Thanadon%E3%80%94+BrainNotResponding+%E3%80%95;CS+Student+%40+MSU;Analyzing+Malware+%26+Hunting+Flags;Code+by+day%2C+exploit+by+night;status+%3D%3D+%22BrainNotResponding%22" alt="Typing SVG" />
 </p>
 
 <h3 align="center">〔 Code ・AI ・ CTF ・ Hack 〕</h3>
